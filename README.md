@@ -1,0 +1,2 @@
+# Deep-Fake-Video-Detection-Using-Deep-Learning-and-Tkinter-GUI
+Deep Fake Video/Image has been around since last decade where we are trying to mimic the behaviour, expression, lip and eye movement made by another person on top of another person, which is then synced to each other. These are then used for some illegal and legal activities by people like border crossing, financial thefts etc. So, in order to solve this problem, we can use the model above, where it helps us to identify whether a particular video fake or not using Transfer Learning and LSTM.
