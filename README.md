@@ -70,8 +70,8 @@ The Dataset can be downloaded from multiple sources given the links are below an
 # _Issues Faced._
 1. Installing specific face recognition library.
   #### Steps:
-  + Download the whl files from the github link provided.
-  + open command prompt and located the path where you ahve saved your dlib files, then create an environemnt.
+  + Download the whl files from the the repository named face_recognition.
+  + open command prompt and located the path where you have saved your dlib files, then create an environemnt.
   + pip install dlib-19.19.0-cp37-cp37m-win_amd64.whl, which ever version of python you use.
   + pip install cmake
   + pip install face_recognition
